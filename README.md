@@ -1,5 +1,5 @@
-## Yoomin Kim
-#### she/her
+# Yoomin Kim
+### she/her
 
 #### I am currently a student at Binghamton University as a Statistics Major with a Digital and Data Studies (DiDa) Minor 
 #### I am currently working on expanding my hard skills in coding and analyzing data.
